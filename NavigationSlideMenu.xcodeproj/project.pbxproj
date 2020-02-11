@@ -13,6 +13,7 @@
 		1D221C1123F33A2300DA018A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D221C1023F33A2300DA018A /* Assets.xcassets */; };
 		1D221C1423F33A2300DA018A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D221C1323F33A2300DA018A /* Preview Assets.xcassets */; };
 		1D221C1723F33A2300DA018A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D221C1523F33A2300DA018A /* LaunchScreen.storyboard */; };
+		1D221C1F23F3472700DA018A /* Screen Recording 2020-02-11 at 22.30.16.mov in Resources */ = {isa = PBXBuildFile; fileRef = 1D221C1E23F3472700DA018A /* Screen Recording 2020-02-11 at 22.30.16.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D221C1323F33A2300DA018A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D221C1623F33A2300DA018A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D221C1823F33A2300DA018A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D221C1E23F3472700DA018A /* Screen Recording 2020-02-11 at 22.30.16.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Screen Recording 2020-02-11 at 22.30.16.mov"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1D221C0923F33A2200DA018A /* NavigationSlideMenu */ = {
 			isa = PBXGroup;
 			children = (
+				1D221C1E23F3472700DA018A /* Screen Recording 2020-02-11 at 22.30.16.mov */,
 				1D221C0A23F33A2200DA018A /* AppDelegate.swift */,
 				1D221C0C23F33A2200DA018A /* SceneDelegate.swift */,
 				1D221C0E23F33A2200DA018A /* ContentView.swift */,
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D221C1723F33A2300DA018A /* LaunchScreen.storyboard in Resources */,
+				1D221C1F23F3472700DA018A /* Screen Recording 2020-02-11 at 22.30.16.mov in Resources */,
 				1D221C1423F33A2300DA018A /* Preview Assets.xcassets in Resources */,
 				1D221C1123F33A2300DA018A /* Assets.xcassets in Resources */,
 			);
